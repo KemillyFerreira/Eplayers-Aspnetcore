@@ -1,0 +1,7 @@
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.RazorAssemblyInfo.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\EPlayers-AspnetCore\obj\Debug\netcoreapp3.1\EPlayers-AspnetCore.RazorAssemblyInfo.cs
