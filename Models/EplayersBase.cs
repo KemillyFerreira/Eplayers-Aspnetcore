@@ -8,7 +8,8 @@ namespace EPlayers_AspnetCore.Models
         public void CreateFolderAndFile (string _path)
         {
             // Database/Equipe.csv
-            string folder = _path.Split ("/") [0];
+            string folder = _path.Split ("/")[0];
+            string file   = _path.Split("/")[1];
             
             if(!Directory.Exists(folder))
             {
@@ -27,7 +28,7 @@ namespace EPlayers_AspnetCore.Models
             //Using responsável por abrir e fechar o arquivo automaticamente
             //streamreader > ler os dados de um arquivo
 
-            using (StreamReader file = new StreamReader(path))
+            using (StreamReader file = new StreamReader(PATH))
             {
                 string linha;
 
@@ -40,10 +41,10 @@ namespace EPlayers_AspnetCore.Models
             return linhas;
         }
 
-        public void RewriteCSV(string path, List<string> linhas)
+        public void RewriteCSV(string PATH, List<string> linhas)
         {
             //streamWriter > escreve dados em um arquivo
-            using(StreamWriter output = new StreamWriter(_path))
+            using(StreamWriter output = new StreamWriter(PATH))
             {
                 foreach (var item in linhas)
                 {

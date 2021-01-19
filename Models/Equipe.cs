@@ -82,7 +82,7 @@ namespace EPlayers_AspnetCore.Models
             
             //2;SNK; snk.jpg
             //removemos as linhas com o código comparado
-            linhas.RemoveAll(x => x.Split (";")[0] == e.IdEquipe.ToString);
+            linhas.RemoveAll(x => x.Split (";")[0] == e.IdEquipe.ToString());
            
             //adicionamos na lista a equipe alterada
             linhas.Add( Prepare (e) );
