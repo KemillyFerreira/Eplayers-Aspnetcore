@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\EPlayers-AspnetCore.csproj": {}
+    "C:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\EPlayers-AspnetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\EPlayers-AspnetCore.csproj": {
+    "C:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\EPlayers-AspnetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\EPlayers-AspnetCore.csproj",
+        "projectUniqueName": "C:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\EPlayers-AspnetCore.csproj",
         "projectName": "EPlayers-AspnetCore",
-        "projectPath": "C:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\EPlayers-AspnetCore.csproj",
-        "packagesPath": "C:\\Users\\unicor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\obj\\",
+        "projectPath": "C:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\EPlayers-AspnetCore.csproj",
+        "packagesPath": "C:\\Users\\mayra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\unicor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mayra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

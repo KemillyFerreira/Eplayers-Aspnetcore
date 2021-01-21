@@ -29,7 +29,6 @@ namespace EPlayers_AspnetCore.Controllers
             Equipe novaEquipe   = new Equipe();
             novaEquipe.IdEquipe = Int32.Parse( form["IdEquipe"] );
             novaEquipe.Nome     = form["Nome"];
-            // novaEquipe.Imagem   = form["Imagem"];
 
             //upload inicio
             //verificamos se o usuário selecionou um arquivo
@@ -57,7 +56,7 @@ namespace EPlayers_AspnetCore.Controllers
                 }
                 else
                 {
-                    novaEquipe.Imagem = "padrao.jpg";
+                    novaEquipe.Imagem = "padrao.png";
                 }
 
 

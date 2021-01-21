@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\EPlayers-AspnetCore.csproj",
+  "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\EPlayers-AspnetCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,43 @@
   "RootNamespace": "EPlayers_AspnetCore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\unicor\\OneDrive\\Imagens\\1°DM Lições\\EPlayers-AspnetCore\\Views\\Equipe\\Index.cshtml",
-      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FilePath": "c:\\Users\\mayra\\OneDrive\\Área de Trabalho\\Eplayers-Aspnetcore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
